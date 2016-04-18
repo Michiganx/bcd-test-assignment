@@ -1,0 +1,7 @@
+NodeA
+NodeB NodeA
+NodeC NodeB
+NodeF
+NodeK NodeB
+NodeT NodeB
+NodeD NodeA
